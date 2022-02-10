@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**CarlosMolinaR/CarlosMolinaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hola Soy Carlos Reyes 👨🏻‍💻👨🏻‍💻
+_______________________________________________________________________________________________________________________________________________________________________________
+|  Hora |                   Lunes                   |                  Martes                  |                 Miercoles                |                  Jueves                  |             Viernes             |
+|:-----:|:-----------------------------------------:|:----------------------------------------:|:----------------------------------------:|:----------------------------------------:|:-------------------------------:|
+| 11:00 |      ARQUITECTURA DE<br>COMPUTADORAS      |      ARQUITECTURA DE<br>COMPUTADORAS     |      ARQUITECTURA DE<br>COMPUTADORAS     |      ARQUITECTURA DE<br>COMPUTADORAS     | ARQUITECTURA DE<br>COMPUTADORAS |
+| 12:00 |                                           |                                          |                                          |                                          |                                 |
+| 13:00 |        TALLER DE BASES DE<br>DATOS        |        TALLER DE BASES DE<br>DATOS       |        TALLER DE BASES DE<br>DATOS       |        TALLER DE BASES DE<br>DATOS       |                                 |
+| 14:00 |            SISTEMAS OPERATIVOS            |            SISTEMAS OPERATIVOS           |            SISTEMAS OPERATIVOS           |            SISTEMAS OPERATIVOS           |                                 |
+| 15:00 |   FUNDAMENTOS DE <br>TELECOMUNICACIONES   |   FUNDAMENTOS DE<br>TELECOMUNICACIONES   |   FUNDAMENTOS DE<br>TELECOMUNICACIONES   |   FUNDAMENTOS DE<br>TELECOMUNICACIONES   |                                 |
+| 16:00 |           LENGUAJES DE INTERFAZ           |           LENGUAJES DE INTERFAZ          |           LENGUAJES DE INTERFAZ          |           LENGUAJES DE INTERFAZ          |                                 |
+| 17:00 | FUNDAMENTOS DE INGENIERIA <br>DE SOFTWARE | FUNDAMENTOS DE INGENIERIA<br>DE SOFTWARE | FUNDAMENTOS DE INGENIERIA<br>DE SOFTWARE | FUNDAMENTOS DE INGENIERIA<br>DE SOFTWARE |                                 |
