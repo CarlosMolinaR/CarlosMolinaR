@@ -1,5 +1,5 @@
 Hola Soy Carlos Reyes 👨🏻‍💻👨🏻‍💻
-⭐Estudiante del Instituto tecnologico 
+⭐Estudiante del Instituto tecnologico
 ⭐Ing. En Sistemas Computacionales
 _______________________________________________________________________________________________________________________________________________________________________________
 |  Hora |                  Lunes                 |                 Martes                |               Miercoles               |                 Jueves                |            Viernes           |
